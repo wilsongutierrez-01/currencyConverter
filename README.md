@@ -15,6 +15,7 @@ A simple Java console program that converts currencies using the **ExchangeRate 
 ---
 
 ## 📁 Project Structure
+```
 src/
 └── alura.courses.com/
 ├── api/
@@ -28,6 +29,7 @@ src/
 └── Main.java
 logs/
 └── conversion_history.txt
+```
 
 ---
 
