@@ -57,7 +57,14 @@ https://v6.exchangerate-api.com/v6/{ApiKey}/pair/{BASE}/{TARGET}/{AMOUNT}
 ## 📝 Logging
 
 Every conversion is stored in:
+```
 logs/conversion_history.txt
+```
+
+Example entry:
+```
+2025-11-16 22:14:33 | 200.00 USD -> 184.53 EUR | rate=0.922650
+```
 
 ## ▶️ Running the App
 	1.	Run Main.java
